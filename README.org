@@ -1,0 +1,8 @@
+#+BEGIN_SRC shell
+
+conda create -n telegram_bot
+conda activate telegram_bot
+conda install pip
+pip install python-telegram-bot --upgrade
+
+#+END_SRC
